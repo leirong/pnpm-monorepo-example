@@ -6,4 +6,8 @@ function subtract(a: number, b: number) {
   return a - b
 }
 
-export { add, subtract }
+function divide(a: number, b: number) {
+  return a / b
+}
+
+export { add, subtract, divide }
