@@ -1,5 +1,12 @@
 # @lrpnpm/cli
 
+## 1.1.4
+
+### Patch Changes
+
+- Updated dependencies
+  - @lrpnpm/core@1.2.1
+
 ## 1.1.3
 
 ### Patch Changes

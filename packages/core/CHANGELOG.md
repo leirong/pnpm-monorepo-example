@@ -1,5 +1,11 @@
 # @lrpnpm/core
 
+## 1.2.1
+
+### Patch Changes
+
+- fix(core):入口配置错误
+
 ## 1.2.0
 
 ### Minor Changes
