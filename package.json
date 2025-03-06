@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "pnpm -r exec pnpm run build",
     "ver": "changeset version",
-    "pub": "changeset publish --registry=https://registry.npmjs.com/"
+    "pub": "pnpm i && pnpm build && changeset publish --registry=https://registry.npmjs.com/"
   },
   "keywords": [],
   "author": "",
