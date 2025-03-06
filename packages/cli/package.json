@@ -1,0 +1,26 @@
+{
+  "name": "@lrpnpm/cli",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "type": "module",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "lrmath": "dist/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@lrpnpm/core": "workspace:^",
+    "chalk": "^5.4.1",
+    "commander": "^13.1.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
