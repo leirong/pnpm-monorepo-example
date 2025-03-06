@@ -1,5 +1,11 @@
 # @lrpnpm/cli
 
+## 1.1.3
+
+### Patch Changes
+
+- cli指定文件执行环境
+
 ## 1.1.2
 
 ### Patch Changes

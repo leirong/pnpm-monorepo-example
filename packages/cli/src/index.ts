@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import { add, subtract } from '@lrpnpm/core'
 import chalk from 'chalk'
 import { Command } from 'commander'
