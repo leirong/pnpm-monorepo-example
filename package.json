@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "pnpm -r exec pnpm run build"
+    "build": "pnpm -r exec pnpm run build",
+    "ver": "changeset version",
+    "pub": "changeset publish --registry=https://registry.npmjs.com/"
   },
   "keywords": [],
   "author": "",
