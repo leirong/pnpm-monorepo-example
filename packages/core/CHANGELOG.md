@@ -1,5 +1,11 @@
 # @lrpnpm/core
 
+## 1.2.2
+
+### Patch Changes
+
+- add log
+
 ## 1.2.1
 
 ### Patch Changes
