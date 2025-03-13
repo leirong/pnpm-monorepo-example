@@ -1,5 +1,11 @@
 # @lrpnpm/core
 
+## 1.2.3
+
+### Patch Changes
+
+- core add console.log
+
 ## 1.2.2
 
 ### Patch Changes

@@ -1,5 +1,13 @@
 # @lrpnpm/cli
 
+## 1.1.6
+
+### Patch Changes
+
+- cli add console.log
+- Updated dependencies
+  - @lrpnpm/core@1.2.3
+
 ## 1.1.5
 
 ### Patch Changes

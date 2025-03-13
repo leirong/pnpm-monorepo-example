@@ -6,6 +6,8 @@ const program = new Command()
 
 program.name('math-cli').description('数学计算命令行工具').version('0.0.1')
 
+console.log('123 :>> ', 123)
+
 program
   .command('add')
   .description('加法')
